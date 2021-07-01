@@ -1,1 +1,1 @@
-# Sbake game by Naveen
+# Snake game by Naveen
